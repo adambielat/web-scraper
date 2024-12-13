@@ -1,5 +1,5 @@
 **Python HTML Scraper** <br />
-*This is a simple python script that scrapes raw HTML content from a website. <br />
+*This is a simple python script that scrapes raw HTML content from a website and writes it to a txt file. <br />
 The tool has 3 premade options: **Github**, **Youtube** and **Custom**, where you can enter any URL you please.* <br />
 
 **Features**
